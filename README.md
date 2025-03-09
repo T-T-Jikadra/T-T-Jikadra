@@ -12,9 +12,9 @@
 
 <p align="left">- ✨ Solving bugs since 2023<br>
 - 👋 Hey, It’s @T-T-Jikadra<br>
-- 👀 I’m interested in Software development<br>
-- 🌱 I’m currently learning Mobile Application development<br>
-  - 🎲 Fun fact: Will Tell you later .
+- 👀 Interested in Software development<br>
+- 🌱 Currently learning Mobile Application development<br>
+  - 🎲 Fun fact: Will discuss with you later ...
 
 </p>
 
